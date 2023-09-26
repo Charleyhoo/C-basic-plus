@@ -1,4 +1,4 @@
-# C-basic-plus
+# C++ -basic -plus
 review basic knowledge of C++, just as personal learning notes.
 
 ````
